@@ -1,0 +1,19 @@
+#logo{
+    background-color: rgb(59, 163, 129);
+}
+#Menu{
+    background-color:gray;
+}
+#Menu ul li:hover{/*Cuando pasa el mouse, se cambia a este color*/
+    background: rgb(1, 99, 69);
+}
+.button-more{
+    background-color: rgb(153, 219, 122);
+}
+footer{
+    background-color: rgb(10, 153, 5);
+}
+body{/*Configuraciones generales del body*/
+    background-image: url("../img/verde.jpg");
+    background-attachment: fixed; /*La imagen se mantiene intacta*/
+}

@@ -1,0 +1,19 @@
+#logo{
+    background-color:cornflowerblue;
+}
+#Menu{
+    background-color:gray;
+}
+#Menu ul li:hover{/*Cuando pasa el mouse, se cambia a este color*/
+    background: rgb(119, 2, 252);
+}
+.button-more{
+    background-color:darkcyan;
+}
+footer{
+    background-color: rgb(145, 203, 241);
+}
+body{/*Configuraciones generales del body*/
+    background-image: url("../img/azul.jpg");
+    background-attachment: fixed; /*La imagen se mantiene intacta*/
+}
